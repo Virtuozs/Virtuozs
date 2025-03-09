@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Taufiqurrahman
 [![medium profile link](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@taufiqurrahman_)
 [![discord server link](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/385426070934913035)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufiqurrahman-8627191aa/)
 [![Mail](https://img.shields.io/badge/Mail-ffffff?logo=mailgun&style=for-the-badge&color=ffffff&logoColor=F06B66)](mailto:contact@virtuozs.com)
 
 
