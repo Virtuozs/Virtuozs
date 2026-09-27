@@ -4,7 +4,7 @@
 [![Mail](https://img.shields.io/badge/Mail-ffffff?logo=mailgun&style=for-the-badge&color=ffffff&logoColor=F06B66)](mailto:contact@virtuozs.com)
 
 
-## 🙋‍♂️ About Me<br/>
+## About Me<br/>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Data Science. at the [Cakrawala University](https://www.cakrawala.ac.id/)<br/>
 💭 Currently learning about Rust and AI<br/>
@@ -32,9 +32,3 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virtuozs&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virtuozs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Virtuozs&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
